@@ -36,5 +36,5 @@ new games.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-allaneduardot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allaneduardot@gmail.com)](mailto:allaneduardot@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-allaneduardotorres?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allaneduardotorres/)](https://www.linkedin.com/in/minoveaz/)
+[![Linkedin Badge](https://img.shields.io/badge/-allaneduardotorres?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allaneduardotorres/)](https://www.linkedin.com/in/allaneduardotorres/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/AllanTorresBass)](https://github.com/AllanTorresBass)
