@@ -11,6 +11,8 @@ I stand out for my great capacity for adaptation and problem solving.
 
 If you are interested in knowing more about me, I invite you to visit my Github profile or contact me by email:
 https://github.com/AllanTorresBass
+
 allaneduardot@gmail.com
-WhatsApp
+
+  WhatsApp
 +584121222392
