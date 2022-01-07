@@ -16,3 +16,18 @@ allaneduardot@gmail.com
 
   WhatsApp
 +584121222392
+
+🚀 Some of my main projects:
+
+- Academic Project - Full Stack Development Henry Videogames
+"Video Games App" Oct-Dec, 2021. Development of an application
+using React and Redux as state management. All the
+components were developed with CSS without the use of libraries
+external. The application consumes data from the API
+https://api.rawg.io/api/ through a backend developed in
+Node.JS using Express, adding new functionalities to the
+Original API. Some features of the project: Search cache,
+sorts and filters, controlled form for the creation of
+new games.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AllanTorresBass&repo=PI-Videogames-main)](https://github.com/AllanTorresBass/PI-Videogames-main)
