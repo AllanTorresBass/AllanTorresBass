@@ -38,3 +38,20 @@ new games.
 [![Gmail Badge](https://img.shields.io/badge/-allaneduardot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allaneduardot@gmail.com)](mailto:allaneduardot@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-allaneduardotorres?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allaneduardotorres/)](https://www.linkedin.com/in/allaneduardotorres/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/AllanTorresBass)](https://github.com/AllanTorresBass)
+
+<hr>
+
+## ⚡ Technologies
+![React](https://img.shields.io/badge/-React-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgresDB](https://img.shields.io/badge/-Postgres-gray)
+![Redux](https://img.shields.io/badge/-Redux-black)
+![Scrum](https://img.shields.io/badge/-Scrum-gray)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+<hr>
